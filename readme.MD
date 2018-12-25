@@ -1,4 +1,4 @@
-<b>DGA Assam 
+<b>DGA Assam </b>
 
 After checkout update src\main\resources\spring\app.properties for your database configuration
 
